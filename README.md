@@ -1,4 +1,4 @@
-# Data Analysis with Pandas and Matplotlib
+# Data Analysis with Python 
 - Project file contains data "online_retail2.xlsx" and python implementation in "proje.ipynb"
 # Data
  - Data used in this project is a .xlsx file that consists of transactions occuring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail.
